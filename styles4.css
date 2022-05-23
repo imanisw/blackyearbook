@@ -42,9 +42,6 @@ html {
     text-align: left;
     overflow-y: auto;
 }
-.header{
-    text-align: center;
-}
 
 /** RESPONSIVE IMAGES */
 
@@ -55,7 +52,9 @@ img {
     display: block;
     margin: 0 auto;
 }
-
+.header {
+    text-align: center; 
+}
 p {
     line-height: 1.5em;
 }
