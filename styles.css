@@ -46,6 +46,9 @@ html{
 
 }
 
+.container {
+    display: full;
+}
 
 
 .container.image {
